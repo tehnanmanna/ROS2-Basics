@@ -3,7 +3,7 @@
 # ros2_tutorial
 This tutorial provides references of some commonly used ROS 2 features. Please refer to the [official tutorials](https://index.ros.org/doc/ros2/Tutorials/) for a full introduction of the awesome ROS 2  
 ## Table of Contents
-1. [Install ROS2 dashing ](#install-ros2-dashing)
+1. [Install ROS2 Foxy ](#install-ros2-foxy)
 2. [Workspace and Packages](#workspace-and-packages)
    * [Create ROS2 Workspace](#create-a-new-ros2-workspace)
    * [Create ROS2 Package](#create-a-new-ros2-package)
@@ -27,7 +27,7 @@ This tutorial provides references of some commonly used ROS 2 features. Please r
    * [How to setup networking on different hosts](#how-to-setup-multiple-hosts-for-ros2)
 
 ## Install ROS2 Foxy 
-    [Dashing Linux Install](https://index.ros.org/doc/ros2/Installation/Foxy/Linux-Install-Debians/)
+    [Foxy Linux Install](https://index.ros.org/doc/ros2/Installation/Foxy/Linux-Install-Debians/)
 
 ## Workspace and Packages
 ### Source the ROS2 Environment 
