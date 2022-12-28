@@ -26,8 +26,8 @@ This tutorial provides references of some commonly used ROS 2 features. Please r
    * [Compare to ROS 1](#what's-new-in-ros2-networking)
    * [How to setup networking on different hosts](#how-to-setup-multiple-hosts-for-ros2)
 
-## Install ROS2 dashing 
-[Dashing Linux Install](https://index.ros.org/doc/ros2/Installation/Dashing/Linux-Install-Debians/)
+## Install ROS2 Foxy 
+    [Dashing Linux Install](https://index.ros.org/doc/ros2/Installation/Foxy/Linux-Install-Debians/)
 
 ## Workspace and Packages
 ### Source the ROS2 Environment 
