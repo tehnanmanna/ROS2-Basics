@@ -242,7 +242,7 @@ Reference Link: [QoS policies](https://index.ros.org/doc/ros2/Concepts/About-Qua
   * Size of the queue: only honored if used together with “keep last”.
 
 * Reliability
-  * *BEST_EFFERT*: data transport is executed ad soon as possible. But may lose them if the network is not robust.
+  * *BEST_EFFORT*: data transport is executed ad soon as possible. But may lose them if the network is not robust.
   * *RELIABLE*: missed samples are retransmitted, therefore, sample delivery is guaranteed delivered. may retry multiple times.
 
 * Durability
@@ -271,7 +271,7 @@ Reference Link [RMW QoS Profile Header File](https://github.com/ros2/rmw/blob/re
 * rclcpp::SensorDataQoS
 * rclcpp::ServicesQoS
 
-ROS 2 Dashing API changes [link](https://index.ros.org//doc/ros2/Releases/Release-Dashing-Diademata/#rclcpp)
+ROS 2 Foxy API changes [link](https://docs.ros.org/en/foxy/Releases/Release-Foxy-Fitzroy.html)
 
 If you have no idea what depth to use and don’t care right now (maybe just prototyping), then we recommend using 10, as that was the default before and should preserve existing behavior.
 
